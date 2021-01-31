@@ -1,0 +1,11 @@
+/*Colores*/
+:root {
+  --color-rosa: #fda8bb;
+  --color-rosa_claro: #fedcdb;
+  --color-azul: #365e8f;
+  --color-celeste: #cae8ff;
+}
+
+#ProductsContainer {
+  background-color: var(--color-rosa_claro);
+}
